@@ -1,14 +1,8 @@
 
-# ReadME generator
-
-## Screenshot
-
-![Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalflags.shop%2FFlag-of-Brazil&psig=AOvVaw2aMgDDiOTrzQ4jleuHTw8T&ust=1685056641735000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjNjaaLj_8CFQAAAAAdAAAAABAE)
-
-
+# ReadMe Generator 
 
 ## Description
-
+This is a project run on node.js. The project creates a ReadMe file after the user answer prompts presented at the comand-line 
 
 
 ## Table of Contents
@@ -20,21 +14,21 @@
 - [Questions](#questions)
 
 ## Installation
-
+To install this project clone this repository and run npm install to add the necessary technologies
 
 ## Usage
-
+User must go to the rootdirectory and run node index.js, answer all the prompt and the ReadMe will be generated 
 
 ## License
 This application is covered under the MIT License license.
 
 ## Contributing
-
+No contributions necessary at the moment
 
 ## Tests
-
+To test this application run npm test in the root directory 
 
 ## Questions
 For additional questions, you can reach me through:
-- GitHub: [s](https://github.com/s)
-- Email: s
+- GitHub: [florabernardo62](https://github.com/florabernardo62)
+- Email: bernardoflora18@gmail.com
